@@ -112,7 +112,7 @@ Sistema de recomendaciones
 
 
 🙏 Agradecimientos
-Gutendex API por提供 acceso a libros del dominio público
+Gutendex API por el acceso a libros del dominio público
 
 Spring Boot por el framework
 
