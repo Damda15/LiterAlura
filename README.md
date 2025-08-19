@@ -28,16 +28,6 @@ Una aplicación de consola en Java con Spring Boot que permite explorar, buscar 
 - **Gutendex API** (https://gutendex.com/)
 - **Maven**
 
-## 📦 Estructura del Proyecto
-src/main/java/com/literalura/app/
-├── config/ # Configuración (RestTemplate)
-├── model/ # Entidades (Libro, Autor)
-├── repository/ # Repositorios JPA
-├── service/ # Lógica de negocio
-├── dto/ # Objetos de transferencia
-└── LiteraluraApp.java # Clase principal
-
-
 ## ⚙️ Configuración
 
 ### Requisitos Previos
